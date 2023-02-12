@@ -1,0 +1,13 @@
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\bin\Debug\cheque-sysytem.exe.config
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\bin\Debug\cheque-sysytem.exe
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\bin\Debug\cheque-sysytem.pdb
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\bin\Debug\Guna.UI2.dll
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque-sysytem.csproj.AssemblyReference.cache
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque_sysytem.Form1.resources
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque_sysytem.Properties.Resources.resources
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque-sysytem.csproj.GenerateResource.cache
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque-sysytem.csproj.CoreCompileInputs.cache
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque-sysytem.csproj.CopyComplete
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque-sysytem.exe
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque-sysytem.pdb
+C:\Users\3hood\source\repos\cheque-sysytem\cheque-sysytem\obj\Debug\cheque_sysytem.Form2.resources
